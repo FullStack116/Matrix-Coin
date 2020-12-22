@@ -1,2 +1,4 @@
-# staroshi
-A Free P2P Blockchain coin run on SHA-256 Like BTC
+# Matrix Coin
+A Free P2P Blockchain run on the Cryptonight Algorithme.
+Introducing Matrix Coin
+Pre-Alpha
